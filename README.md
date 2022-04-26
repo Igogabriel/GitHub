@@ -139,12 +139,24 @@ Vélez Sarfield,Argentinos Juniors.
 
 Brasil: 21
 
+São paulo,Grêmio,Santos,Cruzeiro,Internacinal,Vasco,Flamengo,Atlético Mineiro,palmeiras,Corinthias.
+
 Uruguai: 8
+
+Peñarol,Nacional.
 
 colômbia: 3
 
+Atlético Nacional,Once Caldas
+
 Paraguai: 3
+
+Olimpia
 
 Chile: 1
 
+Colo-Colo
+
 Equador: 1
+
+LDU
