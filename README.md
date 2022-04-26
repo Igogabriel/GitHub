@@ -12,118 +12,118 @@ Campeão ano 1962: Peñarol
 
 Campeão ano 1963: Santos
 
-Campeão ano 1964
+Campeão ano 1964: Independiente
 
-Campeão ano 1965
+Campeão ano 1965: Independiente
 
-Campeão ano 1966
+Campeão ano 1966: Peñarol
 
-Campeão ano 1967
+Campeão ano 1967: Racing
 
-Campeão ano 1968
+Campeão ano 1968: Estudiantes
 
-Campeão ano 1969
+Campeão ano 1969: Estudiantes
 
-Campeão ano 1970
+Campeão ano 1970: Estudiantes
 
-Campeão ano 1971
+Campeão ano 1971: Nacional
 
-Campeão ano 1972
+Campeão ano 1972: Independiente
 
-Campeão ano 1973
+Campeão ano 1973: Independiente
 
-Campeão ano 1974
+Campeão ano 1974: Independiente
 
-Campeão ano 1975
+Campeão ano 1975: Independiente
 
-Campeão ano 1976
+Campeão ano 1976: Cruzeiro
 
-Campeão ano 1977
+Campeão ano 1977: Boca Juniors
 
-Campeão ano 1978
+Campeão ano 1978: Boca Juniors
 
-Campeão ano 1979
+Campeão ano 1979: Olimpia
 
-Campeão ano 1980
+Campeão ano 1980: Nacional
 
-Campeão ano 1981
+Campeão ano 1981: Flamengo
 
-Campeão ano 1982
+Campeão ano 1982: Peñarol
 
-Campeão ano 1983
+Campeão ano 1983: Grêmio
 
-Campeão ano 1984
+Campeão ano 1984: Independiente
 
-Campeão ano 1985
+Campeão ano 1985: Argentino Juniors
 
-Campeão ano 1986
+Campeão ano 1986: River Plate
 
-Campeão ano 1987
+Campeão ano 1987: Peñarol
 
-Campeão ano 1988
+Campeão ano 1988: Nacional
 
-Campeão ano 1989
+Campeão ano 1989: Atlético Nacional
 
-Campeão ano 1990
+Campeão ano 1990: Olimpia
 
-Campeão ano 1991
+Campeão ano 1991: Colo-Colo
 
-Campeão ano 1992
+Campeão ano 1992: São Paulo
 
-Campeão ano 1993
+Campeão ano 1993: São Paulo
 
-Campeão ano 1994
+Campeão ano 1994: Vélez Sarfield
 
-Campeão ano 1995
+Campeão ano 1995: Grêmio
 
-Campeão ano 1996
+Campeão ano 1996: River Plate
 
-Campeão ano 1997
+Campeão ano 1997: Cruzeiro
 
-Campeão ano 1998
+Campeão ano 1998: Vasco da Gama
 
-Campeão ano 1999
+Campeão ano 1999: Palmeiras
 
-Campeão ano 2000
+Campeão ano 2000: Boca Juniors
 
-Campeão ano 2001
+Campeão ano 2001: Boca Juniors
 
-Campeão ano 2002
+Campeão ano 2002: Olimpia
 
-Campeão ano 2003
+Campeão ano 2003: Boca Juniors
 
-Campeao ano 2004
+Campeao ano 2004: Once Caldas
 
-Campeão ano 2005
+Campeão ano 2005: São Paulo
 
-Campeão ano 2006
+Campeão ano 2006: Internacional
 
-Campeão ano 2007
+Campeão ano 2007: Boca Juniors
 
-Campeão ano 2008
+Campeão ano 2008: LDU Quito
 
-Campeão ano 2009
+Campeão ano 2009: Estudiantes
 
-Campeão ano 2010
+Campeão ano 2010: Internacional
 
-Campeão ano 2011
+Campeão ano 2011: Santos
 
-Campeão ano 2012
+Campeão ano 2012: Corinthians
 
-Campeão ano 2013
+Campeão ano 2013: Atlético Mineiro
 
-Campeão ano 2014 
+Campeão ano 2014: San lorenzo
 
-Campeão ano 2015
+Campeão ano 2015: River Plate
 
-Campeão ano 2016
+Campeão ano 2016: Atlético Nacional
 
-Campeão ano 2017
+Campeão ano 2017: Grêmio
 
-Campeão ano 2018
+Campeão ano 2018: River Plate
 
-Campeão ano 2019
+Campeão ano 2019: Flamengo
 
-Campeão ano 2020
+Campeão ano 2020: Palmeiras
 
-Campeão ano 2021
+Campeão ano 2021: Palmeiras
