@@ -137,26 +137,26 @@ Argentina: 25 Títulos
 Independiente,River Plate,Boca Juniors,Estudiantes,San lorenzo,Racing,
 Vélez Sarfield,Argentinos Juniors.
 
-Brasil: 21
+Brasil: 21 Títulos
 
 São paulo,Grêmio,Santos,Cruzeiro,Internacinal,Vasco,Flamengo,Atlético Mineiro,palmeiras,Corinthias.
 
-Uruguai: 8
+Uruguai: 8 Títulos
 
 Peñarol,Nacional.
 
-colômbia: 3
+colômbia: 3 Títulos
 
 Atlético Nacional,Once Caldas
 
-Paraguai: 3
+Paraguai: 3 Títulos
 
 Olimpia
 
-Chile: 1
+Chile: 1 Título
 
 Colo-Colo
 
-Equador: 1
+Equador: 1 Título
 
 LDU
