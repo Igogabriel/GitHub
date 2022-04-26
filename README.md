@@ -3,7 +3,7 @@
 
 
 
-## Campeões da Libertadores de 1960 a 2021.
+## Campeões da Libertadores de 1961 a 2021.
 
 
 Campeão ano 1961: Peñarol
@@ -127,3 +127,24 @@ Campeão ano 2019: Flamengo
 Campeão ano 2020: Palmeiras
 
 Campeão ano 2021: Palmeiras
+
+
+
+ ## Quantos Títulos cada País levou Para Casa?
+ 
+Argentina: 25 Títulos
+
+Independiente,River Plate,Boca Juniors,Estudiantes,San lorenzo,Racing,
+Vélez Sarfield,Argentinos Juniors.
+
+Brasil: 21
+
+Uruguai: 8
+
+colômbia: 3
+
+Paraguai: 3
+
+Chile: 1
+
+Equador: 1
